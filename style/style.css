@@ -1,0 +1,18 @@
+#container {
+    border: 1px solid #5a9fe0ef;
+    background-color: #5a9fe0ef;
+    width: 300px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
+
+label {
+    padding-right: 10px;
+}
+
+#price-field {
+    padding-left: 10px;
+    border-radius: 20px;
+}
